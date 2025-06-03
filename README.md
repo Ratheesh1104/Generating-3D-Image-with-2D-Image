@@ -51,3 +51,10 @@ This Python-based system:
 
 ```bash
 pip install torch torchvision transformers pillow matplotlib open3d
+```
+
+## 📽️ Demo
+
+![Demo Output](https://github.com/Ratheesh1104/Generating-3D-Image-with-2D-Image/blob/main/Output/output_gif.gif)
+
+---
